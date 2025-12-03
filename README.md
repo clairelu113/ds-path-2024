@@ -4,5 +4,7 @@ This project consists of using two types of single-cell datasets: Single-cell hi
 
 Acknowledgements:
 Faculty Mentors: Dr. Wenxiu Ma, Postdoc Rui Ma
+
 Opportunity provided by Dr. Analisa Flores, Dr. Mariam Salloum, and NSF
+
 Collaborators: Jake Blackwell, Paimon Goulart (UCR)

@@ -9,3 +9,7 @@ Faculty Mentors: Dr. Wenxiu Ma, Postdoc Rui Ma
 Opportunity provided by Dr. Analisa Flores, Dr. Mariam Salloum, and NSF
 
 Collaborators: Jake Blackwell, Paimon Goulart (UCR)
+
+Datasets:
+
+GSE162511, GSE162509 (Barrett et al. 2012)
